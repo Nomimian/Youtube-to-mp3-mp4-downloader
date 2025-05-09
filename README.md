@@ -35,16 +35,15 @@ youtube-to-mp3-mp4-downloader/
 
   * React.js for building the user interface
   * Axios for handling HTTP requests
-  * Vercel for frontend deployment
 
 * **Backend:**
 
   * Node.js with Express.js for backend server
   * YouTube API for fetching video data
-  * Render for backend deployment
 
 * **Other:**
 
+  * Digital Ocean For Deployment on server
   * Git for version control
   * HTML5 and CSS3 for frontend styling
   * Node.js libraries for handling file downloads and conversions
